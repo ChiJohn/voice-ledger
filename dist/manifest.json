@@ -1,0 +1,9 @@
+{
+  "name": "语音记账",
+  "short_name": "记账",
+  "start_url": "/voice-ledger/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1677ff",
+  "icons": []
+}
