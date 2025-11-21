@@ -1,0 +1,33 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+.vs/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+lib/logic/calculate
+macos/Podfile.lock
+.vscode/*
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+dist/
+deploy_versions/
+.temp/
+.idea/
+.rn_temp/
+node_modules/
+.DS_Store
+/package-lock.json
+.swc
